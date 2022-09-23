@@ -1,0 +1,1 @@
+ssh -vvv -oKexAlgorithms=+diffie-hellman-group1-sha1 -c aes256-cbc clab@clab-srlceos01-vr-cisco_xrv -p 830 -s netconf
